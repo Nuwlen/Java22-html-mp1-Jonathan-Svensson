@@ -1,0 +1,58 @@
+.rubrik {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2rem;
+    color: palevioletred;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 1rem;
+    max-width: 700px;
+}
+
+a:hover {
+    background-color: limegreen;
+}
+
+.intern-link {
+    margin: 20px;
+}
+
+.rubrik {
+    margin-top: 100px;
+}
+
+body {
+    background-color: wheat;
+}
+
+.citat {
+    quotes: "'""'";
+}
+
+#textarea {
+    margin-top: 20px;
+}
+
+#lname {
+    margin-top: 10px;
+}
+
+#fname {
+    margin-left: 9px;
+}
+
+#paragraf-a {
+    margin-bottom: 30px;
+}
+
+#email {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.bild-jonathan {
+    max-width: 200px;
+    margin-top: 20px;
+}
